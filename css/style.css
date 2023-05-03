@@ -1,0 +1,86 @@
+.mt-35{
+    margin-top: 35px;
+}
+.navbar-nav .nav-item .active{
+    border-bottom: 1px solid black;
+}
+
+.section-padding{
+    padding-top: 150px;
+}
+
+.profile-info{
+    width: fit-content;
+    background-color: #0bceaf;
+}
+.profile-img{
+    width: 250px;
+    border-radius: 50%;
+    outline: 15px solid #efefef;
+    border: 10px solid #d8d8d8;
+}
+.about-img{
+    width: 100%;
+}
+.rem-list-dec{
+    list-style-type: none;
+}
+
+.skills li{
+    display: inline-block;
+    border: 1px solid #0bceaf ;
+    list-style-type: none;
+    border-radius: 5px;
+    padding-inline: 5px;
+}
+.purple{
+    color: #9774fa;
+}
+.sky{
+    color: #2796e2;
+}
+.iron{
+    color: #ed7256;
+}
+.card{
+    border-radius: 0;
+    border-style: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.cv-download{
+    margin-top: 90px;
+    text-decoration: none;
+    color: #ffff;
+    background-color: #0bceaf;
+    width: fit-content;
+}
+.view-details{
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ffff;
+    background-color: #0bceaf;
+    width: fit-content;
+}
+.carousele-controls{
+    width: 100%;
+}
+.carousel-control-prev-icon{
+    color:black;
+    background-color: black;
+}
+.carousel-control-next-icon{
+    color:black;
+    background-color: black;
+}
+.quote{
+    margin-top: 30px;
+    font-style: italic;
+    font-size: small;
+}
+
+.quotee{
+    font-size: 14px;
+    font-weight: bold;
+}
+
