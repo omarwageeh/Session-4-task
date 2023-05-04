@@ -4,7 +4,9 @@
 .navbar-nav .nav-item .active{
     border-bottom: 1px solid black;
 }
-
+.bluish-color{
+    background-color: #0bceaf;
+}
 .section-padding{
     padding-top: 150px;
 }
@@ -84,3 +86,6 @@
     font-weight: bold;
 }
 
+.align-text-center{
+    text-align: center;
+}
